@@ -1,0 +1,8 @@
+{
+  "name": "Universelle",
+  "description": "Universelle Factory is a NFT Curated Platform",
+  "image": "https://dapp-universelle.vercel.app/logo_completo.png",
+  "external_link": "https://dapp-universelle.vercel.app",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0xd3299cc47F1aFb07E06BbF9c812cC954ed75e6Cc"
+}
