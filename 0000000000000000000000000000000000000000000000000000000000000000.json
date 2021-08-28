@@ -7,20 +7,20 @@
     "background_color":"000",
     "animation_url":"ipfs://QmWgf7Pqo4XbrkCvmG19WbGKJAVC2XpHkb1fonYDkSTEvH/universellenft0.mp4",
     "video":"ipfs://QmWgf7Pqo4XbrkCvmG19WbGKJAVC2XpHkb1fonYDkSTEvH/universellenft0.mp4",
-    "attributes": [
-	{
-    	  "display_type": "date", 
-     	 "trait_type": "birthday", 
-      	"value": 1546360800
-    	},
-        {
-            "trait_type": "Max Supply", 
-            "value": 42
-        },
-        {
-            "trait_type": "Steps Number", 
-            "value": 1500
-        }
-    ]
+    "attributes":[
+		{
+    	 		"display_type": "date", 
+     	 		"trait_type": "25th anniversary of the death of Tupac Amaru Shakur", 
+     			"value": 1631484001
+    		},
+        	{
+            		"trait_type": "Max Supply", 
+            		"value": 42
+        	},
+        	{
+            		"trait_type": "Steps Number", 
+            		"value": 1500
+        	}
+   
 
 }
