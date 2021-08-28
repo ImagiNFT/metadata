@@ -15,12 +15,9 @@
     		},
         	{
             		"trait_type": "Max Supply", 
-            		"value": 42
+            		"value": 1
         	},
-        	{
-            		"trait_type": "Steps Number", 
-            		"value": 1500
-        	}
-   
-
+   		{
+			"value":"minted by Universelle"
+		}
 }
