@@ -8,6 +8,11 @@
     "animation_url":"ipfs://QmWgf7Pqo4XbrkCvmG19WbGKJAVC2XpHkb1fonYDkSTEvH/universellenft0.mp4",
     "video":"ipfs://QmWgf7Pqo4XbrkCvmG19WbGKJAVC2XpHkb1fonYDkSTEvH/universellenft0.mp4",
     "attributes": [
+	{
+    	  "display_type": "date", 
+     	 "trait_type": "birthday", 
+      	"value": 1546360800
+    	},
         {
             "trait_type": "Max Supply", 
             "value": 42
@@ -17,4 +22,5 @@
             "value": 1500
         }
     ]
+
 }
