@@ -2,11 +2,11 @@
     "name":"ONLY GOD CAN JUDGE ME by René Mäkelä",
     "description": "# Only God can judge me, Epic edition #13/13\nThe aim of this work is to create a contrast between the icons of popular culture (2pac and Basquiat's crown) and the baroque and renaissance styles, as well as to pay homage to the old European masters: Velázquez, Caravaggio, Rembrant, Rubens.... I present 2pac as an angel in reference to his song *'Only God can judge me'*.",
     "ammount": 13,
-    "image":"ipfs://QmNstq3o7ktjTtcbMpcBtgt9qEEgVRhV38giuyn7VYmbk8",
-    "image_url":"ipfs://QmNstq3o7ktjTtcbMpcBtgt9qEEgVRhV38giuyn7VYmbk8",
+    "image":"ipfs://QmPe8cuaKWbkrfwNCMHfWRszbZnnaJuv1qcxa2CtFFtrMt/2pac_static.jpg",
+    "image_url":"ipfs://QmPe8cuaKWbkrfwNCMHfWRszbZnnaJuv1qcxa2CtFFtrMt/2pac_static.jpg",
     "background_color":"000",
-    "animation_url":"ipfs://QmRN5bKtNSeoSJCmpGDRqLtznk2iUc7AB2WiT9Bgws7BKC",
-	"model": "ipfs://QmRN5bKtNSeoSJCmpGDRqLtznk2iUc7AB2WiT9Bgws7BKC",
+    "animation_url":"ipfs://QmPe8cuaKWbkrfwNCMHfWRszbZnnaJuv1qcxa2CtFFtrMt/2pac_epic.gltf",
+	"model": "ipfs://QmPe8cuaKWbkrfwNCMHfWRszbZnnaJuv1qcxa2CtFFtrMt/2pac_epic.gltf",
     "attributes":[
 		{
 			"display_type": "date",
