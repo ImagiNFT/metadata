@@ -1,23 +1,18 @@
 {
-    "name":"ONLY GOD CAN JUDGE ME by René Mäkelä #1/1",
-    "description": "# Only God can judge me, unique edition #1/1\nThe aim of this work is to create a contrast between the icons of popular culture (2pac and Basquiat's crown) and the baroque and renaissance styles, as well as to pay homage to the old European masters: Velázquez, Caravaggio, Rembrant, Rubens.... I present 2pac as an angel in reference to his song *'Only God can judge me'*.",
+    "name":"ONLY GOD CAN JUDGE ME by René Mäkelä",
+    "description": "# Only God can judge me, Unique edition #1/1\nThe aim of this work is to create a contrast between the icons of popular culture (2pac and Basquiat's crown) and the baroque and renaissance styles, as well as to pay homage to the old European masters: Velázquez, Caravaggio, Rembrant, Rubens.... I present 2pac as an angel in reference to his song *'Only God can judge me'*.",
     "ammount": 1,
-    "image":"ipfs://QmXyguKMnDUKSiafJAPGHepTGUAis6321cfrhSEcYXYUUN/universelle0.png",
-    "image_url":"ipfs://QmXyguKMnDUKSiafJAPGHepTGUAis6321cfrhSEcYXYUUN/universelle0.png",
+    "image":"ipfs://QmNstq3o7ktjTtcbMpcBtgt9qEEgVRhV38giuyn7VYmbk8",
+    "image_url":"ipfs://QmNstq3o7ktjTtcbMpcBtgt9qEEgVRhV38giuyn7VYmbk8",
     "background_color":"000",
-    "animation_url":"ipfs://QmZ85LiFFPyFU2Cww8PP4nEEvfkXvbmT434qXjDanbxJHv/2pacNFTGroup.gltf",
-    "video":"ipfs://QmWgf7Pqo4XbrkCvmG19WbGKJAVC2XpHkb1fonYDkSTEvH/universellenft0.mp4",
-	"model": "ipfs://QmZ85LiFFPyFU2Cww8PP4nEEvfkXvbmT434qXjDanbxJHv/2pacNFTGroup.gltf",
+    "animation_url":"ipfs://QmSahgkUZJgd8KHhqVXyJW1eEL5PMECsy1LFm8HFw28XVc",
+	"model": "ipfs://QmSahgkUZJgd8KHhqVXyJW1eEL5PMECsy1LFm8HFw28XVc",
     "attributes":[
 		{
-    	 		"display_type": "date", 
-     	 		"trait_type": "25th anniversary of the death of Tupac Amaru Shakur", 
-     			"value": 1631484000
-    		},
-        	{
-            		"trait_type": "Max Supply", 
-            		"value": 1
-        	},
+			"display_type": "date",
+			"trait_type": "25th anniversary of the death of Tupac Amaru Shakur",
+			"value": 1631484000
+		},     	
    		{
 			"value":"minted by Universelle"
 		}
