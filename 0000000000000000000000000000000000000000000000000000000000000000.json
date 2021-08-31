@@ -5,8 +5,8 @@
     "image":"ipfs://QmPe8cuaKWbkrfwNCMHfWRszbZnnaJuv1qcxa2CtFFtrMt/2pac_static.jpg",
     "image_url":"ipfs://QmPe8cuaKWbkrfwNCMHfWRszbZnnaJuv1qcxa2CtFFtrMt/2pac_static.jpg",
     "background_color":"000",
-    "animation_url":"ipfs://QmcEb1LH5wvNF9AzGrR2jhRHHaFMZeUP8BrcwFEdeGgZDx/Tupac_1of1.gltf",
-	"model": "ipfs://QmcEb1LH5wvNF9AzGrR2jhRHHaFMZeUP8BrcwFEdeGgZDx/Tupac_1of1.gltf",
+    "animation_url":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/Tupac_1of1.gltf",
+	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/Tupac_1of1.gltf",
     "attributes":[
 		{
 			"display_type": "date",
