@@ -7,7 +7,7 @@
     "background_color":"fefefe",
     "animation_url":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets//1of130.glb",
 	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets//1of130.glb",
-	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/bgImg.exr",
+	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/bgStudio.hdr",
     "attributes":[
 		{
 			"display_type": "date",
