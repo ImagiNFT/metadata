@@ -5,7 +5,7 @@
 	"image":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of13.png",
     "image_url":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.png",
     "background_color":"fefefe",
-    "animation_url":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.glb",
+	"animation_url":"https://universelle.io/assets/viewer/2",
 	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.glb",
 	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
     "attributes":[
