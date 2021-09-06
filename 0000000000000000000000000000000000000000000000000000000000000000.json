@@ -13,7 +13,7 @@
     "background_color":"2e3382",
     "animation_url":"https://universelle.io/assets/viewer/0",
 	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of1.glb",
-	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
+	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.exr",
     "attributes":[
 		{
 			"display_type": "date",
