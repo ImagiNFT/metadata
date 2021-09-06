@@ -8,7 +8,7 @@
     "background_color":"808080",
 	"animation_url":"https://universelle.io/assets/viewer/1",
 	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of13.glb",
-	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.exr",
+	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
     "attributes":[
 		{
 			"display_type": "date",
