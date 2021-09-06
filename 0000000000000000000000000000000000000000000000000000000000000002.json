@@ -9,6 +9,7 @@
 	"animation_url":"https://universelle.io/assets/viewer/2",
 	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.glb",
 	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
+	"ios_model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of13.usdc",
     "attributes":[
 		{
 			"display_type": "date",
