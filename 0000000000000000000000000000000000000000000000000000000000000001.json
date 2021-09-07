@@ -8,6 +8,7 @@
     "background_color":"808080",
 	"animation_url":"https://universelle.io/assets/viewer/1",
 	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of13.glb",
+	"model_with_lights": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of1_include_lights.glb",
 	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
 	"ios_model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of13.usdc",
     "attributes":[
