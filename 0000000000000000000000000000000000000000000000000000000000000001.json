@@ -20,6 +20,10 @@
 		},
    		{
 			"value":"minted by Universelle"
+		},
+		{
+			"trait_type": "Frame",
+			"value":"Dark Gray"
 		}
 	]
 }
