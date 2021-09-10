@@ -25,7 +25,18 @@
 		{
 			"trait_type": "Frame",
 			"value":"Black"
+		},
+		{
+			"trait_type": "Crown",
+			"value":"static"
+		},
+		{
+			"trait_type": "Wings",
+			"value":"static"
+		},
+		{
+			"trait_type": "Body",
+			"value":"Black"
 		}
-
 	]
 }
