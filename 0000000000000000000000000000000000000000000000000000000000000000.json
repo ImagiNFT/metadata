@@ -29,6 +29,18 @@
 		{
 			"trait_type": "Frame",
 			"value":"White"
+		},
+                {
+			"trait_type": "Crown",
+			"value":"animated"
+		},
+		{
+			"trait_type": "Wings",
+			"value":"animated"
+		},
+		{
+			"trait_type": "Body",
+			"value":"animated"
 		}
 	]
 }
